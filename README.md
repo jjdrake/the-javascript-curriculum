@@ -60,7 +60,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Additional info https://github.com/sethvincent/javascripting
 
 ### Become a Better JavaScript Developer
-- [ ] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
+- [X] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
 - [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop` 
